@@ -1,0 +1,23 @@
+{
+  "name": "Afterglow",
+  "background": "#F4EEE1",
+  "foreground": "#24163B",
+  "cursorColor": "#C3228E",
+  "selectionBackground": "#DFC2AA",
+  "black": "#24163B",
+  "red": "#B12531",
+  "green": "#22775B",
+  "yellow": "#A25410",
+  "blue": "#1D7187",
+  "purple": "#8930A6",
+  "cyan": "#AE296B",
+  "white": "#574979",
+  "brightBlack": "#CDAEA2",
+  "brightRed": "#B12531",
+  "brightGreen": "#22775B",
+  "brightYellow": "#A25410",
+  "brightBlue": "#1D7187",
+  "brightPurple": "#8930A6",
+  "brightCyan": "#AE296B",
+  "brightWhite": "#24163B"
+}

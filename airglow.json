@@ -1,0 +1,23 @@
+{
+  "name": "Foreglow",
+  "background": "#0A1A1F",
+  "foreground": "#E0F0F5",
+  "cursorColor": "#2EE8C8",
+  "selectionBackground": "#162E34",
+  "black": "#0A1A1F",
+  "red": "#E87070",
+  "green": "#4AC878",
+  "yellow": "#D4B870",
+  "blue": "#4AA8D0",
+  "purple": "#2EE8C8",
+  "cyan": "#C8A0E8",
+  "white": "#7A9AA0",
+  "brightBlack": "#2A4A50",
+  "brightRed": "#E87070",
+  "brightGreen": "#4AC878",
+  "brightYellow": "#D4B870",
+  "brightBlue": "#4AA8D0",
+  "brightPurple": "#2EE8C8",
+  "brightCyan": "#C8A0E8",
+  "brightWhite": "#E0F0F5"
+}
